@@ -12,7 +12,7 @@ public class recursion {
     }
     public static void main(String[] args) {
         // recursive(5);
-        System.out.println(recursive(50));    
+        System.out.println(recursive(11));    
     }
     
 }
