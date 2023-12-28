@@ -1,6 +1,4 @@
 
-
-
 public class Object {
     String name = "Tharcisse";
     public static void main(String[] args) {
