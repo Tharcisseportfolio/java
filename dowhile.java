@@ -19,7 +19,7 @@ public class dowhile {
             }
 
         }
-        while(run == true); // it executes this line if the run is not true otherwise, it executes once and quites.
+        while(run == true); // it executes this line if the run is  true otherwise, it executes once and quites.
         
     }
     public static void main(String[] args) {
